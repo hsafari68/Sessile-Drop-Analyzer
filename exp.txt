@@ -1,0 +1,27 @@
+File name:      exp.txt
+Date:   1394/01/01
+=============================================
+
+
+Spherical Cap
+---------------------------------------------
+Time (s):   0.12
+Angle (degrees): 138.29
+
+
+Young-Laplace
+---------------------------------------------
+Time (s):   4.03
+Angle (degrees): 140.23 ± 0.97
+Curvature at the apex (cm): 0.1561
+Surface tension (mN/m):  21.95
+
+
+Drop Characteristics
+---------------------------------------------
+Drop height (mm):   2.38
+Equator diameter (mm):   2.76
+Wetted diameter (mm):   2.06
+Drop volume (cu. cm): 0.01158
+Drop surface area (sq. cm): 0.21651
+Bond number (dimensionless): 0.2648
